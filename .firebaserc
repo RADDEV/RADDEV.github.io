@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "onebutton-3a41a"
+  },
+  "targets": {
+    "your-project-id": {
+      "hosting": {
+        "your-site-name": [
+          "onebutton-3a41a"
+        ]
+      }
+    }
+  }
+}
