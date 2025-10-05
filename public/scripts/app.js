@@ -38,3 +38,5 @@ function setValueToZero() {
 button.addEventListener('mousedown', setValueToOne);
 button.addEventListener('mouseup', setValueToZero);
 button.addEventListener('mouseleave', setValueToZero); // Handle case when mouse leaves button while pressed
+button.addEventListener("touchstart", setValueToOne);
+button.addEventListener("touchend", setValueToZero);
