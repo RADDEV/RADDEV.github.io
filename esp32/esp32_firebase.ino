@@ -13,7 +13,7 @@
 #include <WiFiClientSecure.h>
 
 // --- CONFIG (edit these) ---------------------------------------------------
-const char* ssid = "A1_A227";          // <-- replace with your WiFi SSID
+const char* ssid = "*********";          // <-- replace with your WiFi SSID
 const char* password = "********";  // <-- replace with your WiFi password
 // Full DB URL for the buttonState node (from the web app)
 const char* databaseUrl = "https://onebutton-3a41a-default-rtdb.europe-west1.firebasedatabase.app/buttonState.json";
